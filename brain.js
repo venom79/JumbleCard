@@ -56,7 +56,7 @@ function generateCards(){
                             <h2>JumbleCard</h2>
                         </div>
                         <div class="card__face card__face--back">
-                            <img class="mango" src="/img/mango.png">
+                            <img class="mango" src="./img/mango.png">
                         </div>
                     </div>
                 </div>
@@ -71,7 +71,7 @@ function generateCards(){
                             <h2>JumbleCard</h2>
                         </div>
                         <div class="card__face card__face--back">
-                            <img class="apple" src="/img/apple.png">
+                            <img class="apple" src="./img/apple.png">
                         </div>
                     </div>
                 </div>
@@ -86,7 +86,7 @@ function generateCards(){
                             <h2>JumbleCard</h2>
                         </div>
                         <div class="card__face card__face--back">
-                            <img class="banana" src="/img/banana.png">
+                            <img class="banana" src="./img/banana.png">
                         </div>
                     </div>
                 </div>
@@ -101,7 +101,7 @@ function generateCards(){
                             <h2>JumbleCard</h2>
                         </div>
                         <div class="card__face card__face--back">
-                            <img class="orange" src="/img/orange.png">
+                            <img class="orange" src="./img/orange.png">
                         </div>
                     </div>
                 </div>
@@ -116,7 +116,7 @@ function generateCards(){
                             <h2>JumbleCard</h2>
                         </div>
                         <div class="card__face card__face--back">
-                            <img class="grapes" src="/img/grapes.png">
+                            <img class="grapes" src="./img/grapes.png">
                         </div>
                     </div>
                 </div>
@@ -131,7 +131,7 @@ function generateCards(){
                             <h2>JumbleCard</h2>
                         </div>
                         <div class="card__face card__face--back">
-                            <img class="strawberry" src="/img/strawberry.png">
+                            <img class="strawberry" src="./img/strawberry.png">
                         </div>
                     </div>
                 </div>
