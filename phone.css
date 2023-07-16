@@ -1,20 +1,19 @@
-body{
-    background-color: aqua;
-}
+
 #setting{
-    margin: 4px auto;
+    margin: 6px auto 0px;
 }
 #screenGrid{
     display: flex;
     flex-direction: column;
 }
 #container {
-    width: 100%;
-    margin: 0px;
+    width: 82%;
+    margin: 0px auto;
 }
 .card{
     width: 100px;
     height: 151px;
+    margin: 5px;
 }
 .card__face--front h2 {
     font-size: 16px;
@@ -54,4 +53,15 @@ body{
     position: relative;
     top: 21px;
     left: 0px;
+}
+
+.heading {
+    font-size: 30px;
+    width: 165px;
+    padding: 5px;
+}
+
+.popup {
+    top: 129px;
+    right: 8px;
 }
