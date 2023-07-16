@@ -7,11 +7,11 @@
     flex-direction: column;
 }
 #container {
-    width: 88%;
+    width: 90%;
     margin: 0px auto;
 }
 .card{
-    width: 103px;
+    width: 108px;
     height: 151px;
     margin: 5px;
 }
@@ -62,6 +62,7 @@
 }
 
 .popup {
+    width: 385px;
     top: 129px;
     right: 8px;
 }
