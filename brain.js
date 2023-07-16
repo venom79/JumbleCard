@@ -221,6 +221,7 @@ function checkChoice(){
             bestsec =JSON.parse(localStorage.getItem('best'))[1]<10?"0"+JSON.parse(localStorage.getItem('best'))[1] : JSON.parse(localStorage.getItem('best'))[1]
             document.getElementById('best').innerText = `Your best ${bestmin}:${bestsec}`;
             min = min<10?"0"+min :min;
+            sec = sec<10?"0"+sec : sec;
             document.getElementById('solvedTime').innerText = `Time Taken  ${min}:${sec}`;
             document.getElementById('pop').style.display = "block"
         }
