@@ -7,11 +7,11 @@
     flex-direction: column;
 }
 #container {
-    width: 82%;
+    width: 88%;
     margin: 0px auto;
 }
 .card{
-    width: 100px;
+    width: 103px;
     height: 151px;
     margin: 5px;
 }
