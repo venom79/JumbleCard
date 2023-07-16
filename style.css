@@ -34,17 +34,22 @@
     display: flex;
     width: max-content;
     font-size: 21px;
-    margin: 7px auto;
+    margin: 1px auto;
+    font-family: 'Ysabeau SC', sans-serif;
 }
 
 /* utility classes */
 .heading{
     color: white;
-    width: 136px;
-    padding: 24px;
+    font-size: 35px;
+    font-family: 'Pacifico', cursive;
+    width: 200px;
+    padding: 15px;
     margin: 0px auto;
+    text-shadow: 2px 2px 15px yellow;
 }
 .btn-main{
+    font-family: 'Passion One', cursive;
     height: 48px;
     font-size: 17px;
     color: white;
@@ -52,15 +57,18 @@
     background-color: #ff881e;
     padding: 12px;
     margin: 2px;
-    border: 3px solid #dc4e15;
+    border: none;
+    box-shadow: 2px 2px 5px #bbbbbb;
     border-radius: 10px;
     cursor: pointer;
 }
 .playAgainBtn{
     width: 90%;
-   border-radius: 20px;
+    border-radius: 20px;
+    font-size: 25px;
 }
 .btn{
+    font-family: 'Passion One', cursive;
     width: 100px;
     background-color: antiquewhite;
     padding: 12px;
@@ -104,6 +112,8 @@
     justify-content: center;
 }
 .card__face--front h2 {
+    font-family: 'Ysabeau SC', sans-serif;
+    font-weight: 20;
     color: #FFF;
     font-size: 24px;
 }
@@ -156,15 +166,19 @@
 
 #pop{
     display: none;
+    font-family: 'Ysabeau SC', sans-serif;
 }
 #pop h1{
     margin-top: 25px;
     text-align: center;
     font-size: 55px;
+    font-family: 'Patua One', cursive;
+    color: #078d07;
 }
 #solvedTime{
     text-align: center;
-    margin: 21px;
+    margin: 15px;
+    font-size: 20px;
 }
 .popup{
     width: 400px;
